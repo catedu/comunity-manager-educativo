@@ -1,7 +1,0 @@
-# Introducción {#introducci-n}
-
-Las redes sociales han introducido cambios en la comunicación interpersonal y, por lo tanto en la manera en que los centros se comunican con sus comunidades educativas. La presencia de los centros educativos en Internet y en las redes sociales va más allá de enviar una circular sobre el comedor o una actividad extraescolar, pretende, además de informar, comunicar tomando la interacción como base y poner en conocimiento y, por lo tanto, en valor, las fortalezas de sus proyectos educativos, de sus iniciativas y de sus expectativas de futuro. Vamos a plantearnos algunas reflexiones para comenzar:
-
-&lt;div style=&quot;width: 100%;&quot;&gt;&lt;div style=&quot;position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;&quot;&gt;&lt;iframe frameborder=&quot;0&quot; width=&quot;1200px&quot; height=&quot;675px&quot; style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&quot; src=&quot;https://view.genial.ly/5c51f9b71ef86d73dd8e2f39&quot; type=&quot;text/html&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; scrolling=&quot;yes&quot; allownetworking=&quot;all&quot;&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt;
-
-A lo largo de este módulo intentaremos dar algunas respuestas o nuevos motivos de reflexión, espero que el viaje te resulte interesante.
