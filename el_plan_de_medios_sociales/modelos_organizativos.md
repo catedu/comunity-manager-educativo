@@ -6,24 +6,24 @@ Desde luego, la organización en equipo es fundamental y admite múltiples varia
 
 ### 1.- Modelo DENDRÍTICO {#1-modelo-dendr-tico}
 
-&lt;iframe width=&quot;500&quot; height=&quot;500&quot; src=&quot;https://www.mindomo.com/mindmap/cmeducativo-dendrtico-3b7f7832d247499490ed3f3fed91fb68&quot; frameborder=&quot;0&quot; allowfullscreen&gt;Your browser does not support frames. &lt;a href=&quot;https://www.mindomo.com/mindmap/cmeducativo-dendrtico-3b7f7832d247499490ed3f3fed91fb68&quot; target=&quot;_blank&quot;&gt;View&lt;/a&gt; this map on its original site. It was created using &lt;a href=&quot;https://www.mindomo.com&quot; target=&quot;_blank&quot;&gt;Mindomo&lt;/a&gt;.&lt;/iframe&gt;
+<iframe width="500" height="500" src="https://www.mindomo.com/mindmap/cmeducativo-dendrtico-3b7f7832d247499490ed3f3fed91fb68" frameborder="0" allowfullscreen>Your browser does not support frames. <a href="https://www.mindomo.com/mindmap/cmeducativo-dendrtico-3b7f7832d247499490ed3f3fed91fb68" target="_blank">View</a> this map on its original site. It was created using <a href="https://www.mindomo.com" target="_blank">Mindomo</a>.</iframe>
 
-[Ver en la web](https://www.google.com/url?q=https://www.mindomo.com/mindmap/cmeducativo-dendrita-3b7f7832d247499490ed3f3fed91fb68&sa=D&ust=1580812168775000)
+[Ver en la web](https://www.mindomo.com/es/mindmap/cmeducativo-dendritico-3b7f7832d247499490ed3f3fed91fb68)
 
 ### 2.- Modelo NEURONAL {#2-modelo-neuronal}
 
-&lt;iframe width=&quot;500&quot; height=&quot;500&quot; src=&quot;https://www.mindomo.com/mindmap/cmeducativo-neuronal-ff47623ea3ff4fd18af603a9d76557ad&quot; frameborder=&quot;0&quot; allowfullscreen&gt;Your browser does not support frames. &lt;a href=&quot;https://www.mindomo.com/mindmap/cmeducativo-neuronal-ff47623ea3ff4fd18af603a9d76557ad&quot; target=&quot;_blank&quot;&gt;View&lt;/a&gt; this map on its original site. It was created using &lt;a href=&quot;https://www.mindomo.com&quot; target=&quot;_blank&quot;&gt;Mindomo&lt;/a&gt;.&lt;/iframe&gt;
+<iframe width="500" height="500" src="https://www.mindomo.com/mindmap/cmeducativo-neuronal-ff47623ea3ff4fd18af603a9d76557ad" frameborder="0" allowfullscreen>Your browser does not support frames. <a href="https://www.mindomo.com/mindmap/cmeducativo-neuronal-ff47623ea3ff4fd18af603a9d76557ad" target="_blank">View</a> this map on its original site. It was created using <a href="https://www.mindomo.com" target="_blank">Mindomo</a>.</iframe>
 
-[Ver en la web](https://www.google.com/url?q=https://www.mindomo.com/mindmap/cmeducativo-neuronal-ff47623ea3ff4fd18af603a9d76557ad&sa=D&ust=1580812168776000)
+[Ver en la web](https://www.mindomo.com/mindmap/cmeducativo-neuronal-ff47623ea3ff4fd18af603a9d76557ad)
 
 ### 3.- Modelo SINÁPTICO {#3-modelo-sin-ptico}
 
-&lt;iframe width=&quot;500&quot; height=&quot;500&quot; src=&quot;https://www.mindomo.com/mindmap/cmeducativo-sinptico-125aae993ad86a7b6aa995ec2fa4630d&quot; frameborder=&quot;0&quot; allowfullscreen&gt;Your browser does not support frames. &lt;a href=&quot;https://www.mindomo.com/mindmap/cmeducativo-sinptico-125aae993ad86a7b6aa995ec2fa4630d&quot; target=&quot;_blank&quot;&gt;View&lt;/a&gt; this map on its original site. It was created using &lt;a href=&quot;https://www.mindomo.com&quot; target=&quot;_blank&quot;&gt;Mindomo&lt;/a&gt;.&lt;/iframe&gt;
+<iframe width="500" height="500" src="https://www.mindomo.com/mindmap/cmeducativo-sinptico-125aae993ad86a7b6aa995ec2fa4630d" frameborder="0" allowfullscreen>Your browser does not support frames. <a href="https://www.mindomo.com/mindmap/cmeducativo-sinptico-125aae993ad86a7b6aa995ec2fa4630d" target="_blank">View</a> this map on its original site. It was created using <a href="https://www.mindomo.com" target="_blank">Mindomo</a>.</iframe>
 
-[Ver en la web](https://www.google.com/url?q=https://www.mindomo.com/mindmap/cmeducativo-sistmico-125aae993ad86a7b6aa995ec2fa4630d&sa=D&ust=1580812168776000)
+[Ver en la web](https://www.mindomo.com/mindmap/cmeducativo-sistmico-125aae993ad86a7b6aa995ec2fa4630d)
 
 ### 4.- Modelo SISTÉMICO {#4-modelo-sist-mico}
 
-&lt;iframe width=&quot;500&quot; height=&quot;500&quot; src=&quot;https://www.mindomo.com/mindmap/cmeducativo-sistmico-5d6c1ca9ebbe1e951b199611c4cf20bc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;Your browser does not support frames. &lt;a href=&quot;https://www.mindomo.com/mindmap/cmeducativo-sistmico-5d6c1ca9ebbe1e951b199611c4cf20bc&quot; target=&quot;_blank&quot;&gt;View&lt;/a&gt; this map on its original site. It was created using &lt;a href=&quot;https://www.mindomo.com&quot; target=&quot;_blank&quot;&gt;Mindomo&lt;/a&gt;.&lt;/iframe&gt;
+<iframe width="500" height="500" src="https://www.mindomo.com/mindmap/cmeducativo-sistmico-5d6c1ca9ebbe1e951b199611c4cf20bc" frameborder="0" allowfullscreen>Your browser does not support frames. <a href="https://www.mindomo.com/mindmap/cmeducativo-sistmico-5d6c1ca9ebbe1e951b199611c4cf20bc" target="_blank">View</a> this map on its original site. It was created using <a href="https://www.mindomo.com" target="_blank">Mindomo</a>.</iframe>
 
-[Ver en la web](https://www.google.com/url?q=https://www.mindomo.com/mindmap/cmeducativo-sistmico-multidisciplinar-5d6c1ca9ebbe1e951b199611c4cf20bc&sa=D&ust=1580812168777000)
+[Ver en la web](https://www.mindomo.com/mindmap/cmeducativo-sistmico-multidisciplinar-5d6c1ca9ebbe1e951b199611c4cf20bc)

@@ -2,18 +2,18 @@
 
 Elaborar un listado de cualidades aplicables al dinamizador de redes sociales educativas en el contexto de un centro es una tarea compleja, encontrar a una persona que las reúna todas es una misión imposible. Al final, dada la amplitud de la lista, he optado por un pasapalabra que reúne unas cuantas cualidades (algunas letras tienen varias), dada la complejidad de la figura y a las que, seguramente, podrás añadir más.
 
-&lt;div style=&quot;width: 100%;&quot;&gt;&lt;div style=&quot;position: relative; padding-bottom: 66.67%; padding-top: 0; height: 0;&quot;&gt;&lt;iframe frameborder=&quot;0&quot; width=&quot;1200px&quot; height=&quot;800px&quot; style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&quot; src=&quot;https://view.genial.ly/5a1c5a1ba3a6174d38f2c260&quot; type=&quot;text/html&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; scrolling=&quot;yes&quot; allownetworking=&quot;all&quot;&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt;
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 66.67%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="800px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5a1c5a1ba3a6174d38f2c260" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+
+---
 
 Por clasificarlas en grupos:
 
-| Respecto al público | Respecto al contenido | Como portavoz institucional | Respecto al formato de los contenidos |
-| --- | --- | --- | --- |
-|  |  |  |  |
+<table class="c25"><tbody><tr class="c11"><td class="c14" colspan="1" rowspan="1"><p class="c16"><span class="c2">Respecto al público</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c16"><span class="c2">Respecto al contenido</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c16"><span class="c2">Como portavoz institucional</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c16"><span class="c2">Respecto al formato de los contenidos</span></p></td></tr><tr class="c11"><td class="c14" colspan="1" rowspan="1"><ul class="c8 lst-kix_kufsiviznq3-0 start"><li class="c0"><span class="c2">Asertivo</span></li><li class="c0"><span class="c2">Empático</span></li><li class="c0"><span class="c2">Flexible</span></li><li class="c0"><span class="c2">Hábil</span></li><li class="c0"><span class="c2">Imparcial</span></li><li class="c0"><span class="c2">Integrador</span></li><li class="c0"><span class="c2">Juicioso</span></li><li class="c0"><span class="c2">Líder</span></li><li class="c0"><span class="c2">Motivador</span></li><li class="c0"><span class="c2">Moderador</span></li><li class="c0"><span class="c2">Objetivo</span></li><li class="c0"><span class="c2">Proactivo</span></li><li class="c0"><span class="c2">Querido</span></li><li class="c0"><span class="c2">Responsable</span></li><li class="c0"><span class="c2">Riguroso</span></li><li class="c0"><span class="c2">Sensato</span></li><li class="c0"><span class="c2">Tenaz</span></li><li class="c0"><span class="c2">Reflexivo</span></li></ul><p class="c16 c7"><span class="c2"></span></p></td><td class="c14" colspan="1" rowspan="1"><ul class="c8 lst-kix_putgpk2kssof-0 start"><li class="c0"><span class="c2">Analítico</span></li><li class="c0"><span class="c2">Buscador</span></li><li class="c0"><span class="c2">Comunicador</span></li><li class="c0"><span class="c2">Compartidor</span></li><li class="c0"><span class="c2">Gestor</span></li><li class="c0"><span class="c2">Organizado</span></li><li class="c0"><span class="c2">Participativo</span></li><li class="c0"><span>Prosumidor</span><sup><a href="#ftnt1" id="ftnt_ref1">[1]</a></sup></li><li class="c0"><span>Prosumirtuador</span><sup><a href="#ftnt2" id="ftnt_ref2">[2]</a></sup></li><li class="c0"><span class="c2">Sinérgico</span></li></ul><p class="c16 c7"><span class="c2"></span></p></td><td class="c14" colspan="1" rowspan="1"><ul class="c8 lst-kix_toywl0t3gz8-0 start"><li class="c0"><span class="c2">Corporativo</span></li><li class="c0"><span class="c2">Dispuesto</span></li><li class="c0"><span class="c2">Integrado</span></li><li class="c0"><span class="c2">Responsable</span></li><li class="c0"><span class="c2">Social</span></li><li class="c0"><span class="c2">Ubicuo</span></li><li class="c0"><span class="c2">Veraz</span></li><li class="c0"><span class="c2">Webmaster</span></li><li class="c0"><span class="c2">Apoyo</span></li><li class="c0"><span class="c2">Dinamizador</span></li></ul><p class="c16 c7"><span class="c2"></span></p></td><td class="c14" colspan="1" rowspan="1"><ul class="c8 lst-kix_jukvavo5kqme-0 start"><li class="c0"><span class="c2">Creativo</span></li><li class="c0"><span class="c2">Generador</span></li><li class="c0"><span class="c2">Inspirado</span></li><li class="c0"><span class="c2">Inspirador</span></li><li class="c0"><span class="c2">Ingenioso</span></li><li class="c0"><span class="c2">Intrépido</span></li><li class="c0"><span class="c2">Innovador</span></li><li class="c0"><span class="c2">Narrador</span></li><li class="c0"><span class="c2">Original</span></li><li class="c0"><span class="c2">Redactor</span></li></ul><p class="c16 c7 c26"><span class="c2"></span></p></td></tr></tbody></table>
+
+[^1]: Consumidor de contenidos que también los crea.
+[^2]: Además de lo anterior, interactúa.
+
 
 En resumen: Un Crack
 
-![](images/image9.jpg)
-
-[^1]: 
-
-[^2]:
+![](/images/image9.jpg)

@@ -1,9 +1,7 @@
 # Summary
 
-* [Módulo 4 COFOTAC: Community Manager Educativo](README.md)
-* [Introducción](introduccion.md)
-* [Mi centro en las Redes Sociales](mi_centro_en_las_redes_sociales/README.md)
-  * [¿Por qué?](mi_centro_en_las_redes_sociales/por_que.md)
+* [Introducción](README.md)
+* [Mi centro en las Redes Sociales. ¿Por qué?](mi_centro_en_las_redes_sociales/README.md)
   * [¿Para quién?](mi_centro_en_las_redes_sociales/para_quien.md)
   * [¿Qué?](mi_centro_en_las_redes_sociales/que.md)
 * [Community manager educativo](community_manager_educativo/README.md)
@@ -21,3 +19,7 @@
   * [Hootsuite](seguimiento,_monitorizacion_y_planificacion/hootsuite.md)
 * [Para saber más](para_saber_mas.md)
 * [Evaluación](evaluacion.md)
+
+---
+
+* [Créditos](creditos.md)
