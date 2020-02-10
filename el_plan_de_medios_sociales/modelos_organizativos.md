@@ -18,12 +18,12 @@ Desde luego, la organización en equipo es fundamental y admite múltiples varia
 
 ### 3.- Modelo SINÁPTICO {#3-modelo-sin-ptico}
 
-<iframe width="100%" height="500" src="https://www.mindomo.com/mindmap/cmeducativo-sinptico-125aae993ad86a7b6aa995ec2fa4630d" frameborder="0" allowfullscreen>Your browser does not support frames. <a href="https://www.mindomo.com/mindmap/cmeducativo-sinptico-125aae993ad86a7b6aa995ec2fa4630d" target="_blank">View</a> this map on its original site. It was created using <a href="https://www.mindomo.com" target="_blank">Mindomo</a>.</iframe>
+<iframe width="100%" height="100%" src="https://www.mindomo.com/mindmap/cmeducativo-sinptico-125aae993ad86a7b6aa995ec2fa4630d" frameborder="0" allowfullscreen>Your browser does not support frames. <a href="https://www.mindomo.com/mindmap/cmeducativo-sinptico-125aae993ad86a7b6aa995ec2fa4630d" target="_blank">View</a> this map on its original site. It was created using <a href="https://www.mindomo.com" target="_blank">Mindomo</a>.</iframe>
 
 [Ver en la web](https://www.mindomo.com/mindmap/cmeducativo-sistmico-125aae993ad86a7b6aa995ec2fa4630d)
 
 ### 4.- Modelo SISTÉMICO {#4-modelo-sist-mico}
 
-<iframe width="100%" height="500" src="https://www.mindomo.com/mindmap/cmeducativo-sistmico-5d6c1ca9ebbe1e951b199611c4cf20bc" frameborder="0" allowfullscreen>Your browser does not support frames. <a href="https://www.mindomo.com/mindmap/cmeducativo-sistmico-5d6c1ca9ebbe1e951b199611c4cf20bc" target="_blank">View</a> this map on its original site. It was created using <a href="https://www.mindomo.com" target="_blank">Mindomo</a>.</iframe>
+<iframe width="100%" height="100%" src="https://www.mindomo.com/mindmap/cmeducativo-sistmico-5d6c1ca9ebbe1e951b199611c4cf20bc" frameborder="0" allowfullscreen>Your browser does not support frames. <a href="https://www.mindomo.com/mindmap/cmeducativo-sistmico-5d6c1ca9ebbe1e951b199611c4cf20bc" target="_blank">View</a> this map on its original site. It was created using <a href="https://www.mindomo.com" target="_blank">Mindomo</a>.</iframe>
 
 [Ver en la web](https://www.mindomo.com/mindmap/cmeducativo-sistmico-multidisciplinar-5d6c1ca9ebbe1e951b199611c4cf20bc)
