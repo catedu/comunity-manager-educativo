@@ -15,5 +15,3 @@ Por clasificarlas en grupos:
 
 
 En resumen: Un Crack
-
-![](/images/image9.jpg)
